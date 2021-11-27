@@ -245,6 +245,9 @@ function setFriendlyLanguageNames() {
         case "cs":
         friendlyLanguageName = "Čeština"
         break;
+        case "el":
+        friendlyLanguageName = "Greek"
+        break;        
         default:
         return;
       }

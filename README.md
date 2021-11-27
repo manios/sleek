@@ -112,8 +112,13 @@ A prioritized backlog of new features and known issues can be found <a href="htt
   - Turkish
   - Hungarian
   - Czech
+  - Greek
 * sleek can be minimized to tray
 * Existing todos can be used as templates for new ones
+
+npm install -g electron sass peggy
+yarn install --production
+yarn start
 
 ### Used libraries
 - Electron: https://github.com/electron/electron
